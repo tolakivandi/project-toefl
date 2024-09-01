@@ -13,21 +13,20 @@
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="{{ asset('')assets/css/bootstrap.min.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/animate.min.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/animate.min.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/fontawesome-all.min.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/flaticon-skillgro.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/flaticon-skillgro-new.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/swiper-bundle.min.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/default-icons.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/select2.min.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/odometer.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/aos.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/plyr.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/spacing.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/tg-cursor.css }}">
-    <link rel="stylesheet" href="{{ asset('')assets/css/main.css }}">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/animate.min.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/flaticon-skillgro.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/flaticon-skillgro-new.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/default-icons.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/select2.min.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/odometer.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/aos.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/plyr.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/spacing.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/tg-cursor.css">
+    <link rel="stylesheet" href="{{ asset('') }}assets/css/main.css">
 </head>
 
 <body>
