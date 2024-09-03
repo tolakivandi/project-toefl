@@ -46,10 +46,10 @@
                                                         <a href="/">Main Home</a>
                                                     </li>
                                                     <li>
-                                                        <a href="/online-course">Online Course <span class="tg-badge">Hot</span></a>
+                                                        <a href="/online-course">Online Course</a>
                                                     </li>
                                                     <li>
-                                                        <a href="index-3.html">University <span class="tg-badge-two">New</span></a>
+                                                        <a href="/kls">Class</a>
                                                     </li>
                                                     <li>
                                                         <a href="index-4.html">Yoga Instructor<span class="tg-badge-two">New</span></a>
@@ -88,7 +88,7 @@
                                     </li>
                                     <li class="menu-item-has-children"><a href="#">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="about-us.html">About Us</a></li>
+                                            <li><a href="/about">About Us</a></li>
                                             <li class="menu-item-has-children">
                                                 <a href="instructors.html">Our Instructors</a>
                                                 <ul class="sub-menu">
@@ -198,7 +198,7 @@
                                         </a>
                                     </li>
                                     <li class="header-btn login-btn">
-                                        <a href="login.html">Log in</a>
+                                        <a href="/log">Log in</a>
                                     </li>
                                 </ul>
                             </div>
