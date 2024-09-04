@@ -33,3 +33,11 @@ Route::get('/kls', function () {
 Route::get('/detail', function () {
     return view('kelas.detail_class');
 });
+
+Route::get('/detail_tim', function () {
+    return view('about.detail_tim');
+});
+
+Route::get('/instructors', function () {
+    return view('about.instructors');
+});

@@ -93,7 +93,7 @@
                                                 <a href="instructors.html">Our Instructors</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="instructors.html">Our Instructors</a></li>
-                                                    <li><a href="instructor-details.html">Instructor Details</a></li>
+                                                    <li><a href="/detail_tim">Instructor Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
