@@ -1036,38 +1036,9 @@
         </section>
         <!-- course-area-end -->
 
-        <!-- newsletter-area -->
-        <section class="newsletter__area">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-4">
-                        <div class="newsletter__img-wrap">
-                            <img src="assets/img/others/newsletter_img.png" alt="img">
-                            <img src="assets/img/others/newsletter_shape01.png" alt="img" data-aos="fade-up" data-aos-delay="400">
-                            <img src="assets/img/others/newsletter_shape02.png" alt="img" class="alltuchtopdown">
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="newsletter__content">
-                            <h2 class="title">Want to stay <span>informed</span> about <br> new <span>courses & study?</span></h2>
-                            <div class="newsletter__form">
-                                <form action="#">
-                                    <input type="email" placeholder="Type your e-mail">
-                                    <button type="submit" class="btn">Subscribe Now</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="newsletter__shape">
-                <img src="assets/img/others/newsletter_shape03.png" alt="img" data-aos="fade-left" data-aos-delay="400">
-            </div>
-        </section>
-        <!-- newsletter-area-end -->
 
         <!-- instructor-area -->
-        <section class="instructor__area">
+        <section class="instructor__area " style="margin-bottom: 100pxgu;">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
@@ -1185,40 +1156,6 @@
         </section>
         <!-- instructor-area-end -->
 
-        <!-- fact-area -->
-        <section class="fact__area">
-            <div class="container">
-                <div class="fact__inner-wrap">
-                    <div class="row">
-                        <div class="col-lg-3 col-6">
-                            <div class="fact__item">
-                                <h2 class="count"><span class="odometer" data-count="45"></span>K+</h2>
-                                <p>Active Students</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-6">
-                            <div class="fact__item">
-                                <h2 class="count"><span class="odometer" data-count="89"></span>+</h2>
-                                <p>Faculty Courses</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-6">
-                            <div class="fact__item">
-                                <h2 class="count"><span class="odometer" data-count="156"></span>K</h2>
-                                <p>Best Professors</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-6">
-                            <div class="fact__item">
-                                <h2 class="count"><span class="odometer" data-count="42"></span>K</h2>
-                                <p>Award Achieved</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- fact-area-end -->
 
         <!-- faq-area -->
         <section class="faq__area">
