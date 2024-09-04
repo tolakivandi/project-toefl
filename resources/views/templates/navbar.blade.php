@@ -1,31 +1,4 @@
 <header>
-    <div class="tg-header__top">
-        <div class="container custom-container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <ul class="tg-header__top-info list-wrap">
-                        <li><img src="assets/img/icons/map_marker.svg" alt="Icon"> <span>589 5th Ave, NY 10024, USA</span></li>
-                        <li><img src="assets/img/icons/envelope.svg" alt="Icon"> <a href="mailto:info@skillgrodemo.com">info@skillgrodemo.com</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-6">
-                    <div class="tg-header__top-right">
-                        <div class="tg-header__phone">
-                            <img src="assets/img/icons/phone.svg" alt="Icon">Call us: <a href="tel:0123456789">+123 599 8989</a>
-                        </div>
-                        <ul class="tg-header__top-social list-wrap">
-                            <li>Follow Us On :</li>
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div id="header-fixed-height"></div>
     <div id="sticky-header" class="tg-header__area">
         <div class="container custom-container">
@@ -34,7 +7,7 @@
                     <div class="tgmenu__wrap">
                         <nav class="tgmenu__nav">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.svg" alt="Logo"></a>
+                                <a href="/welcome"><img src="assets/img/logo/GoldMate.svg" alt="Logo" style="width: 270px; height:100px;"></a>
                             </div>
                             <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                 <ul class="navigation">
