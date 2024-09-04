@@ -63,9 +63,9 @@
                                         <ul class="sub-menu">
                                             <li><a href="/about">About Us</a></li>
                                             <li class="menu-item-has-children">
-                                                <a href="instructors.html">Our Instructors</a>
+                                                <a href="/instructors">Our Instructors</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="instructors.html">Our Instructors</a></li>
+                                                    <li><a href="/instructors">Our Instructors</a></li>
                                                     <li><a href="/detail_tim">Instructor Details</a></li>
                                                 </ul>
                                             </li>
@@ -85,18 +85,14 @@
                                                     <li><a href="check-out.html">Checkout</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="blog.html">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog.html">Blog Right Sidebar</a></li>
-                                                    <li><a href="blog-2.html">Blog Left Sidebar</a></li>
-                                                    <li><a href="blog-3.html">Blog Full Width</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
+                                            <li class="active menu-item-has-children">
+                                                    <a href="/blog">Blog</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="/blog_detail">Blog Details</a></li>
+                                                    </ul>
+                                                </li>
                                             <li><a href="login.html">Student Login</a></li>
                                             <li><a href="registration.html">Student Registration</a></li>
-                                            <li><a href="404.html">404 Page</a></li>
                                             <li><a href="contact.html">contact</a></li>
                                         </ul>
                                     </li>

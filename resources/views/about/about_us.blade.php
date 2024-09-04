@@ -65,9 +65,7 @@
                                     <p class="content">Flexible Course Plans</p>
                                 </li>
                             </ul>
-                            <div class="tg-button-wrap">
-                                <a href="contact.html" class="btn arrow-btn">Start Free Trial <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

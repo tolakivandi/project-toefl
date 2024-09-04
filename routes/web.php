@@ -41,3 +41,11 @@ Route::get('/detail_tim', function () {
 Route::get('/instructors', function () {
     return view('about.instructors');
 });
+
+Route::get('/blog', function () {
+    return view('about.blog');
+});
+
+Route::get('/blog_detail', function () {
+    return view('about.blog_detail');
+});
