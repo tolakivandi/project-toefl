@@ -49,3 +49,11 @@ Route::get('/blog', function () {
 Route::get('/blog_detail', function () {
     return view('about.blog_detail');
 });
+
+Route::get('/komunitas', function () {
+    return view('about.komunitas');
+});
+
+Route::get('/event_detail', function () {
+    return view('about.event_detail');
+});

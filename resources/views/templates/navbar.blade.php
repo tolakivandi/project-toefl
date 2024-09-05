@@ -15,10 +15,10 @@
                                         <ul class="sub-menu mega-menu">
                                             <li>
                                                 <ul class="list-wrap mega-sub-menu">
-                                                    <li class="active">
+                                                    <li>
                                                         <a href="/">Main Home</a>
                                                     </li>
-                                                    <li>
+                                                    <li class="active">
                                                         <a href="/online-course">Online Course</a>
                                                     </li>
                                                     <li>
@@ -70,10 +70,10 @@
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="events.html">Our Events</a>
+                                                <a href="/komunitas">Komunitas</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="events.html">Our Events</a></li>
-                                                    <li><a href="events-details.html">Event Details</a></li>
+                                                    <li><a href="/komunitas">Our Events</a></li>
+                                                    <li><a href="/event_detail">Event Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
