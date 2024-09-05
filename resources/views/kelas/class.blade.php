@@ -11,10 +11,10 @@
                     <div class="col-xl-5 col-lg-6">
                         <div class="banner__content-three">
                             <span class="sub-title" data-aos="fade-right" data-aos-delay="200">FOR A BETTER FUTURE</span>
-                            <h2 class="title" data-aos="fade-right" data-aos-delay="400">Empowering Minds Inspiring <span>Futures</span></h2>
-                            <p data-aos="fade-right" data-aos-delay="600">Every teaching and learning journey is unique Follwoing We'll help guide your way.</p>
+                            <h2 class="title" data-aos="fade-right" data-aos-delay="400">Raih Skor impian TOEFL dan IELTS di!!<span>GOLD MATE</span></h2>
+                            <p data-aos="fade-right" data-aos-delay="600">Yuk Ikuti kelas TOEFL dan IELTS untuk capai skor impianmu!!</p>
                             <div class="banner__btn-wrap" data-aos="fade-right" data-aos-delay="800">
-                                <a href="courses.html" class="btn arrow-btn">Find Your Course <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
+                                <a href="courses.html" class="btn arrow-btn">Daftar Sekarang<img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                             </div>
                             <div class="shape">
                                 <img src="assets/img/banner/h3_hero_shape01.svg" alt="shape" data-aos="fade-right" data-aos-delay="1000">
@@ -30,10 +30,6 @@
                             <div class="shape__wrap">
                                 <img src="assets/img/banner/h3_hero_shape02.svg" alt="shape" data-aos="fade-down-right" data-aos-delay="400">
                                 <img src="assets/img/banner/h3_hero_shape03.svg" alt="shape" data-aos="fade-down-left" data-aos-delay="400">
-                            </div>
-                            <div class="about__enrolled" data-aos="fade-right" data-aos-delay="900" >
-                                <p class="title"><span>36K+</span> Enrolled Students</p>
-                                <img src="assets/img/others/student_grp.png" alt="img">
                             </div>
                         </div>
                     </div>
