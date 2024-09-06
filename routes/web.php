@@ -57,3 +57,11 @@ Route::get('/komunitas', function () {
 Route::get('/event_detail', function () {
     return view('about.event_detail');
 });
+
+Route::get('/courses', function () {
+    return view('online_course.courses');
+});
+
+Route::get('/course_detail', function () {
+    return view('online_course.course_detail');
+});
