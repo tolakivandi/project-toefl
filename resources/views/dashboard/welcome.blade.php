@@ -171,50 +171,6 @@
         </section>
         <!-- categories-area-end -->
 
-        <!-- brand-area -->
-        <div class="brand-area">
-            <div class="container-fluid">
-                <div class="marquee_mode">
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand01.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand02.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand03.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand04.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand05.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand06.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand07.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand04.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                    <div class="brand__item">
-                        <a href="#"><img src="assets/img/brand/brand03.png" alt="brand"></a>
-                        <img src="assets/img/icons/brand_star.svg" alt="star">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- brand-area-end -->
 
         <!-- about-area -->
         <section class="about-area tg-motion-effects section-py-120">
@@ -1038,7 +994,7 @@
 
 
         <!-- instructor-area -->
-        <section class="instructor__area " style="margin-bottom: 100pxgu;">
+        <section class="instructor__area " style="margin-bottom: 100px;">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
@@ -1451,6 +1407,112 @@
             </div>
         </section>
         <!-- blog-area-end -->
+
+                <!-- testimonial-area -->
+                <section class="testimonial__area section-py-120">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-5">
+                                <div class="section__title text-center mb-50">
+                                    <span class="sub-title">Testimoni Mahasiswa</span>
+                                    <h2 class="title">Mahasiswa Yang Berhasil Mendapatkan Beasiswa</h2>
+                                    <p>mahasiswa tanpa beasiswa merasa terbebani biaya pendidikan dan kehilangan motivasi belajar</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="testimonial__item-wrap">
+                                    <div class="swiper-container testimonial-swiper-active">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                                                <div class="testimonial__item">
+                                                    <div class="testimonial__item-top">
+                                                        <div class="testimonial__author">
+                                                            <div class="testimonial__author-thumb">
+                                                                <img src="assets/img/others/testi_author01.png" alt="img">
+                                                            </div>
+                                                            <div class="testimonial__author-content">
+                                                                <h2 class="title">Farizi Maulidan</h2>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="testimonial__content">
+                                                        <p>"Mendapatkan beasiswa Bidikmisi merupakan berkah luar biasa bagi saya dan keluarga. Dengan beasiswa ini, saya bisa melanjutkan pendidikan tanpa khawatir akan biaya sekolah. Selain membantu meringankan beban finansial, beasiswa ini juga memberikan saya kesempatan untuk lebih fokus dalam belajar dan mengembangkan keterampilan saya di bidang teknik. Saya sangat berterima kasih kepada para donatur dan pihak yang telah mendukung program ini. Saya berkomitmen untuk membalas kebaikan ini dengan cara berprestasi dan menginspirasi teman-teman lainnya."</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial__item">
+                                                    <div class="testimonial__item-top">
+                                                        <div class="testimonial__author">
+                                                            <div class="testimonial__author-thumb">
+                                                                <img src="assets/img/others/testi_author02.png" alt="img">
+                                                            </div>
+                                                            <div class="testimonial__author-content">
+                                                                <h2 class="title">Aisyah Putri</h2>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="testimonial__content">
+                                                        <p>"Saya sangat berterima kasih atas kesempatan yang diberikan oleh program beasiswa unggulan ini. Beasiswa ini benar-benar mengubah hidup saya, terutama dalam hal motivasi belajar dan pengembangan diri. Sebagai siswa dari latar belakang keluarga sederhana, beasiswa ini memberikan harapan besar untuk mencapai cita-cita saya menjadi seorang dokter. Saya merasa lebih percaya diri untuk menghadapi tantangan akademik dan terus berusaha memberikan yang terbaik. Terima kasih kepada semua pihak yang telah mendukung saya. Semoga saya bisa menjadi pribadi yang berguna bagi masyarakat."</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial__item">
+                                                    <div class="testimonial__item-top">
+                                                        <div class="testimonial__author">
+                                                            <div class="testimonial__author-thumb">
+                                                                <img src="assets/img/others/testi_author03.png" alt="img">
+                                                            </div>
+                                                            <div class="testimonial__author-content">
+                                                                <h2 class="title">Rizky Fajar</h2>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="testimonial__content">
+                                                        <p>"Mendapatkan beasiswa Bidikmisi merupakan berkah luar biasa bagi saya dan keluarga. Dengan beasiswa ini, saya bisa melanjutkan pendidikan tanpa khawatir akan biaya sekolah. Selain membantu meringankan beban finansial, beasiswa ini juga memberikan saya kesempatan untuk lebih fokus dalam belajar dan mengembangkan keterampilan saya di bidang teknik. Saya sangat berterima kasih kepada para donatur dan pihak yang telah mendukung program ini. Saya berkomitmen untuk membalas kebaikan ini dengan cara berprestasi dan menginspirasi teman-teman lainnya."
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial__item">
+                                                    <div class="testimonial__item-top">
+                                                        <div class="testimonial__author">
+                                                            <div class="testimonial__author-thumb">
+                                                                <img src="assets/img/others/testi_author02.png" alt="img">
+                                                            </div>
+                                                            <div class="testimonial__author-content">
+                                                                <div class="rating">
+                                                                    <i class="fas fa-star"></i>
+                                                                    <i class="fas fa-star"></i>
+                                                                    <i class="fas fa-star"></i>
+                                                                    <i class="fas fa-star"></i>
+                                                                    <i class="fas fa-star"></i>
+                                                                </div>
+                                                                <h2 class="title">Jenny Wilson</h2>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="testimonial__content">
+                                                        <p>"Saya sangat bersyukur mendapatkan kesempatan untuk meraih beasiswa prestasi ini. Beasiswa ini tidak hanya meringankan beban biaya pendidikan saya, tetapi juga memotivasi saya untuk terus belajar dan mengembangkan diri. Dukungan ini telah membuka banyak peluang untuk saya mengejar impian saya, terutama dalam bidang sains dan teknologi. Terima kasih kepada para pemberi beasiswa yang telah memberikan saya kesempatan ini. Saya berjanji untuk terus berprestasi dan memberi manfaat kepada lingkungan sekitar."</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="testimonial__nav">
+                                        <button class="testimonial-button-prev"><i class="flaticon-arrow-right"></i></button>
+                                        <button class="testimonial-button-next"><i class="flaticon-arrow-right"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- testimonial-area-end -->
 
     </main>
     <!-- main-area-end -->
