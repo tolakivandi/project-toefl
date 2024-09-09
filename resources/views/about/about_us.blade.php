@@ -32,46 +32,72 @@
         </section>
         <!-- breadcrumb-area-end -->
 
-        <!-- about-area -->
-        <section class="about-area-three section-py-120">
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 col-md-9">
-                        <div class="about__images-three tg-svg">
-                            <img src="assets/img/others/inner_about_img.png" alt="img">
-                            <span class="svg-icon" id="about-svg" data-svg-icon="assets/img/others/inner_about_shape.svg"></span>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="about__content-three">
-                            <div class="section__title mb-10">
-                                <span class="sub-title">Get to Know Us Better</span>
-                                <h2 class="title">
-                                    Making Your Scholarship Dreams Come True
-                                </h2>
-                            </div>
-                            <p class="desc">GoldMate is dedicated to helping students achieve their dreams of getting scholarships through effective and quality guidance.</p>
-                            <ul class="about__info-list list-wrap">
-                                <li class="about__info-list-item">
-                                    <i class="flaticon-angle-right"></i>
-                                    <p class="content">World-Class Instructors</p>
-                                </li>
-                                <li class="about__info-list-item">
-                                    <i class="flaticon-angle-right"></i>
-                                    <p class="content">Access Classes Anytime, Anywhere</p>
-                                </li>
-                                <li class="about__info-list-item">
-                                    <i class="flaticon-angle-right"></i>
-                                    <p class="content">Flexible Course Plans</p>
-                                </li>
-                            </ul>
-                            
-                        </div>
-                    </div>
+       <!-- about-area -->
+<section class="about-area-three section-py-120">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 col-md-9">
+                <div class="about__images-three tg-svg">
+                    <img src="assets/img/others/inner_about_img.png" alt="img">
+                    <span class="svg-icon" id="about-svg" data-svg-icon="assets/img/others/inner_about_shape.svg"></span>
                 </div>
             </div>
-        </section>
-        <!-- about-area-end -->
+            <div class="col-lg-6">
+                <div class="about__content-three">
+                    <div class="section__title mb-10">
+                        <span class="sub-title">Get to Know Us Better</span>
+                        <h2 class="title">Making Your Scholarship Dreams Come True</h2>
+                    </div>
+                    <p class="desc">GoldMate is dedicated to helping students achieve their dreams of getting scholarships through effective and quality guidance.</p>
+                    
+                    <!-- Vision Mission Section -->
+                    <div class="vision-mission">
+                        <!-- Vision Section -->
+                        <div class="vision-box" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon-wrap">
+                                <i class="flaticon-vision"></i>
+                            </div>
+                            <h3 class="title">Our Vision</h3>
+                            <p class="desc">To become the leading platform that empowers students worldwide to secure scholarships and pursue their academic dreams without financial barriers.</p>
+                        </div>
+
+                        <!-- Mission Section -->
+                        <div class="mission-box" data-aos="fade-up" data-aos-delay="400">
+                            <div class="icon-wrap">
+                                <i class="flaticon-mission"></i>
+                            </div>
+                            <h3 class="title">Our Mission</h3>
+                            <ul class="mission-list list-wrap">
+                                <li class="mission-item" data-aos="fade-right" data-aos-delay="500">
+                                    <div class="mission-icon">
+                                        <i class="flaticon-graduation-cap"></i>
+                                    </div>
+                                    <p class="content">Provide accessible and high-quality education to help students excel in scholarship applications.</p>
+                                </li>
+                                <li class="mission-item" data-aos="fade-right" data-aos-delay="600">
+                                    <div class="mission-icon">
+                                        <i class="flaticon-teamwork"></i>
+                                    </div>
+                                    <p class="content">Collaborate with world-class instructors to guide students through every stage of their scholarship journey.</p>
+                                </li>
+                                <li class="mission-item" data-aos="fade-right" data-aos-delay="700">
+                                    <div class="mission-icon">
+                                        <i class="flaticon-online-learning"></i>
+                                    </div>
+                                    <p class="content">Create a flexible learning environment that adapts to the individual needs and schedules of students globally.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Vision Mission Section End -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- about-area-end -->
+
+
         <!-- team-area -->
         
                 <!-- instructor-area -->

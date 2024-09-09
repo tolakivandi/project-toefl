@@ -11,18 +11,18 @@
             <div class="col-xl-5 col-lg-6">
                 <div class="banner__content-two">
                     <h3 class="title" data-aos="fade-right" data-aos-delay="400">
-                        Learning is
+                        Success is
                         <span class="position-relative">
                             <svg x="0px" y="0px" preserveAspectRatio="none" viewBox="0 0 209 59" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M4.74438 7.70565C69.7006 -1.18799 136.097 -2.38304 203.934 4.1205C207.178 4.48495 209.422 7.14626 208.933 10.0534C206.793 23.6481 205.415 36.5704 204.801 48.8204C204.756 51.3291 202.246 53.5582 199.213 53.7955C136.093 59.7623 74.1922 60.5985 13.5091 56.3043C10.5653 56.0924 7.84371 53.7277 7.42158 51.0325C5.20725 38.2627 2.76333 25.6511 0.0898448 13.1978C-0.465589 10.5873 1.61173 8.1379 4.73327 7.70565" fill="currentcolor" />
                             </svg>
                             What You
                         </span>
-                        Make of it. Make it Yours at SkillGro.
+                        Achieve with GoldMate. Unlock Your Potential.
                     </h3>
                     <div class="banner__btn-two" data-aos="fade-right" data-aos-delay="600">
                         <a href="/contact" class="btn arrow-btn">Start Free Trial <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
-                        <a href="https://www.youtube.com/watch?v=b2Az7_lLh3g" class="play-btn popup-video"><i class="fas fa-play"></i> Watch Our <br> Class Demo</a>
+                        <a href="https://www.youtube.com/watch?v=b2Az7_lLh3g" class="play-btn popup-video"><i class="fas fa-play"></i> Watch Our <br> Product Demo</a>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                     </div>
                     <span class="svg-icon" id="banner-svg" data-svg-icon="assets/img/banner/h2_banner_shape02.svg"></span>
                     <div class="about__enrolled" data-aos="fade-right" data-aos-delay="200">
-                        <p class="title"><span>36K+</span> Enrolled Students</p>
+                        <p class="title"><span>36K+</span> Satisfied Customers</p>
                         <img src="assets/img/others/student_grp.png" alt="img">
                     </div>
                     <div class="banner__student" data-aos="fade-left" data-aos-delay="200">
@@ -42,7 +42,7 @@
                             <img src="assets/img/banner/h2_banner_icon.svg" alt="img" class="injectable">
                         </div>
                         <div class="content">
-                            <span>Total Students</span>
+                            <span>Total Users</span>
                             <h4 class="title">15K</h4>
                         </div>
                     </div>
@@ -55,6 +55,123 @@
 </section>
 <!-- banner-area-end -->
 
+
+
+
+ <!-- categories-area -->
+ <section class="categories-area section-py-120">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-5 col-lg-7">
+                        <div class="section__title text-center mb-40">
+                            <span class="sub-title">Trending Categories</span>
+                            <h2 class="title">Top Category We Have</h2>
+                            <p class="desc">when known printer took a galley of type scrambl edmake</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="categories__wrap">
+                            <div class="swiper categories-active">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-graphic-design"></i>
+                                                </div>
+                                                <span class="name">Graphic Design</span>
+                                                <span class="courses">(22)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-investment"></i>
+                                                </div>
+                                                <span class="name">Finance</span>
+                                                <span class="courses">(41)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-coding"></i>
+                                                </div>
+                                                <span class="name">Development</span>
+                                                <span class="courses">(29)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-email"></i>
+                                                </div>
+                                                <span class="name">Marketing</span>
+                                                <span class="courses">(31)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-fashion"></i>
+                                                </div>
+                                                <span class="name">Life Style</span>
+                                                <span class="courses">(23)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-interaction"></i>
+                                                </div>
+                                                <span class="name">Management</span>
+                                                <span class="courses">(19)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="categories__item">
+                                            <a href="/courses">
+                                                <div class="icon">
+                                                    <i class="flaticon-web-design"></i>
+                                                </div>
+                                                <span class="name">App Design</span>
+                                                <span class="courses">(18)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="categories__nav">
+                                <button class="categories-button-prev">
+                                    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M15 7L1 7M1 7L7 1M1 7L7 13" stroke="#161439" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </button>
+                                <button class="categories-button-next">
+                                    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M1 7L15 7M15 7L9 1M15 7L9 13" stroke="#161439" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- categories-area-end -->
 
 <!-- course-area -->
 <section class="courses-area section-py-120" data-background="assets/img/bg/courses_bg.jpg">
@@ -105,18 +222,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb01.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Development</a>
+                                            <a href="/course">Development</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author001.png" alt="img">David Millar</a>
@@ -138,18 +255,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb02.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Design</a>
+                                            <a href="/course">Design</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$10.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">The Complete Graphic Design for Beginners</a></h5>
+                                    <h5 class="title"><a href="/course_detail">The Complete Graphic Design for Beginners</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Wilson</a>
@@ -171,18 +288,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb03.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Data Science</a>
+                                            <a href="/course">Data Science</a>
                                         </li>
                                         <li class="price">$20.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author003.png" alt="img">Warren</a>
@@ -204,18 +321,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb04.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Business</a>
+                                            <a href="/course">Business</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$15.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Financial Analyst Training & Investing Course</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Financial Analyst Training & Investing Course</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author004.png" alt="img">Robert Fox</a>
@@ -237,18 +354,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb05.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Mathematic</a>
+                                            <a href="/course">Mathematic</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Hawkins</a>
@@ -276,18 +393,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb02.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Design</a>
+                                            <a href="/course">Design</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$10.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">The Complete Graphic Design for Beginners</a></h5>
+                                    <h5 class="title"><a href="/course_detail">The Complete Graphic Design for Beginners</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Wilson</a>
@@ -309,18 +426,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb01.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Development</a>
+                                            <a href="/course">Development</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author001.png" alt="img">David Millar</a>
@@ -342,18 +459,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb03.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Data Science</a>
+                                            <a href="/course">Data Science</a>
                                         </li>
                                         <li class="price">$20.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author003.png" alt="img">Warren</a>
@@ -375,18 +492,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb04.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Business</a>
+                                            <a href="/course">Business</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$15.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Financial Analyst Training & Investing Course</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Financial Analyst Training & Investing Course</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author004.png" alt="img">Robert Fox</a>
@@ -408,18 +525,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb05.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Mathematic</a>
+                                            <a href="/course">Mathematic</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Hawkins</a>
@@ -447,18 +564,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb03.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Data Science</a>
+                                            <a href="/course">Data Science</a>
                                         </li>
                                         <li class="price">$20.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author003.png" alt="img">Warren</a>
@@ -480,18 +597,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb01.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Development</a>
+                                            <a href="/course">Development</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author001.png" alt="img">David Millar</a>
@@ -513,18 +630,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb02.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Design</a>
+                                            <a href="/course">Design</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$10.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">The Complete Graphic Design for Beginners</a></h5>
+                                    <h5 class="title"><a href="/course_detail">The Complete Graphic Design for Beginners</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Wilson</a>
@@ -546,18 +663,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb04.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Business</a>
+                                            <a href="/course">Business</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$15.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Financial Analyst Training & Investing Course</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Financial Analyst Training & Investing Course</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author004.png" alt="img">Robert Fox</a>
@@ -579,18 +696,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb05.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Mathematic</a>
+                                            <a href="/course">Mathematic</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Hawkins</a>
@@ -618,18 +735,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb04.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Business</a>
+                                            <a href="/course">Business</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$15.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Financial Analyst Training & Investing Course</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Financial Analyst Training & Investing Course</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author004.png" alt="img">Robert Fox</a>
@@ -651,18 +768,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb01.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Development</a>
+                                            <a href="/course">Development</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author001.png" alt="img">David Millar</a>
@@ -684,18 +801,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb02.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Design</a>
+                                            <a href="/course">Design</a>
                                         </li>
                                         <li class="price"><del>$20.00</del>$10.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">The Complete Graphic Design for Beginners</a></h5>
+                                    <h5 class="title"><a href="/course_detail">The Complete Graphic Design for Beginners</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Wilson</a>
@@ -717,18 +834,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb03.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Data Science</a>
+                                            <a href="/course">Data Science</a>
                                         </li>
                                         <li class="price">$20.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author003.png" alt="img">Warren</a>
@@ -750,18 +867,18 @@
                         <div class="swiper-slide">
                             <div class="courses__item courses__item-two shine__animate-item">
                                 <div class="courses__item-thumb courses__item-thumb-two">
-                                    <a href="course-details.html" class="shine__animate-link">
+                                    <a href="/course_detail" class="shine__animate-link">
                                         <img src="assets/img/courses/course_thumb05.jpg" alt="img">
                                     </a>
                                 </div>
                                 <div class="courses__item-content courses__item-content-two">
                                     <ul class="courses__item-meta list-wrap">
                                         <li class="courses__item-tag">
-                                            <a href="course.html">Mathematic</a>
+                                            <a href="/course">Mathematic</a>
                                         </li>
                                         <li class="price"><del>$29.00</del>$9.00</li>
                                     </ul>
-                                    <h5 class="title"><a href="course-details.html">Learning JavaScript With Imagination</a></h5>
+                                    <h5 class="title"><a href="/course_detail">Learning JavaScript With Imagination</a></h5>
                                     <div class="courses__item-content-bottom">
                                         <div class="author-two">
                                             <a href="/detail_tim"><img src="assets/img/courses/course_author002.png" alt="img">Hawkins</a>
