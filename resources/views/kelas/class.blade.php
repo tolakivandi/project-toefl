@@ -162,8 +162,8 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="section__title text-center mb-50">
-                            <span class="sub-title">Top Class Courses</span>
-                            <h2 class="title">Choose Perfect Academic Courses</h2>
+                            <span class="sub-title">Kelas Bahasa</span>
+                            <h2 class="title"></h2>
                             <p>when known printer took a galley of type scrambl edmake</p>
                         </div>
                     </div>
