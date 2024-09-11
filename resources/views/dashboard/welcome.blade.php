@@ -21,7 +21,7 @@
                                 <br>Scholarship <b>with</b> GoldMate
                             <p data-aos="fade-right" data-aos-delay="600">To shape a brilliant future, is to explore knowledge. Below we will help guide you.</p>
                             <div class="banner__btn-wrap" data-aos="fade-right" data-aos-delay="800">
-                                <a href="/contact" class="btn arrow-btn">Register Now <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
+                                <a href="/kls" class="btn arrow-btn">Register Now <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                             </div>
                         </div>
                     </div>
@@ -35,16 +35,9 @@
                             <img src="assets/img/banner/banner_shape02.png" alt="shape" class="shape small-shape tg-motion-effects3">
                             <div class="banner__author">
                                 <div class="banner__author-item">
-                                    <div class="image">
-                                        <img src="assets/img/banner/banner_author01.png" alt="img">
+                                    <div class="image w-100" style="width: 700px">
+                                        <img src="assets/img/logo/GoldMateLogo.svg" class="w-500px" alt="img">
                                     </div>
-                                    <h6 class="name">Robert Fox</h6>
-                                </div>
-                                <div class="banner__author-item">
-                                    <div class="image">
-                                        <img src="assets/img/banner/banner_author02.png" alt="img">
-                                    </div>
-                                    <h6 class="name">Michel Jones</h6>
                                 </div>
                                 <img src="assets/img/banner/banner_shape02.svg" alt="shape" class="arrow-shape tg-motion-effects3">
                             </div>
@@ -55,122 +48,6 @@
             <img src="assets/img/banner/banner_shape01.svg" alt="shape" class="line-shape" data-aos="fade-right" data-aos-delay="1600">
         </section>
         <!-- banner-area-end -->
-
-        <!-- categories-area -->
-        <section class="categories-area section-py-120">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-5 col-lg-7">
-                        <div class="section__title text-center mb-40">
-                            <span class="sub-title">Trending Categories</span>
-                            <h2 class="title">Top Category We Have</h2>
-                            <p class="desc">when known printer took a galley of type scrambl edmake</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="categories__wrap">
-                            <div class="swiper categories-active">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-graphic-design"></i>
-                                                </div>
-                                                <span class="name">Graphic Design</span>
-                                                <span class="courses">(22)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-investment"></i>
-                                                </div>
-                                                <span class="name">Finance</span>
-                                                <span class="courses">(41)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-coding"></i>
-                                                </div>
-                                                <span class="name">Development</span>
-                                                <span class="courses">(29)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-email"></i>
-                                                </div>
-                                                <span class="name">Marketing</span>
-                                                <span class="courses">(31)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-fashion"></i>
-                                                </div>
-                                                <span class="name">Life Style</span>
-                                                <span class="courses">(23)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-interaction"></i>
-                                                </div>
-                                                <span class="name">Management</span>
-                                                <span class="courses">(19)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="categories__item">
-                                            <a href="courses.html">
-                                                <div class="icon">
-                                                    <i class="flaticon-web-design"></i>
-                                                </div>
-                                                <span class="name">App Design</span>
-                                                <span class="courses">(18)</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="categories__nav">
-                                <button class="categories-button-prev">
-                                    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M15 7L1 7M1 7L7 1M1 7L7 13" stroke="#161439" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </button>
-                                <button class="categories-button-next">
-                                    <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M1 7L15 7M15 7L9 1M15 7L9 13" stroke="#161439" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- categories-area-end -->
-
 
         <!-- about-area -->
         <section class="about-area tg-motion-effects section-py-120">
@@ -1485,13 +1362,6 @@
                                                                 <img src="assets/img/others/testi_author02.png" alt="img">
                                                             </div>
                                                             <div class="testimonial__author-content">
-                                                                <div class="rating">
-                                                                    <i class="fas fa-star"></i>
-                                                                    <i class="fas fa-star"></i>
-                                                                    <i class="fas fa-star"></i>
-                                                                    <i class="fas fa-star"></i>
-                                                                    <i class="fas fa-star"></i>
-                                                                </div>
                                                                 <h2 class="title">Jenny Wilson</h2>
                                                             </div>
                                                         </div>
