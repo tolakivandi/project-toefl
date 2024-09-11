@@ -19,7 +19,7 @@
                                     Your Dream
                                 </span>
                                 <br>Scholarship <b>with</b> GoldMate
-                            <p data-aos="fade-right" data-aos-delay="600">To shape a brilliant future, is to explore knowledge. Below we will help guide you.</p>
+                            <p data-aos="fade-right" data-aos-delay="600">GoldMate is ready to help make your dreams come true. Get the best guide for a brilliant future!</p>
                             <div class="banner__btn-wrap" data-aos="fade-right" data-aos-delay="800">
                                 <a href="/kls" class="btn arrow-btn">Register Now <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                             </div>
@@ -48,6 +48,176 @@
             <img src="assets/img/banner/banner_shape01.svg" alt="shape" class="line-shape" data-aos="fade-right" data-aos-delay="1600">
         </section>
         <!-- banner-area-end -->
+
+
+                <!-- course-area -->
+                <section class="courses-area-two tg-motion-effects courses__bg" data-background="assets/img/bg/h3_courses_bg.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="section__title text-center mb-50">
+                                    <span class="sub-title">Top Class Courses</span>
+                                    <h2 class="title">Choose Perfect Academic Courses</h2>
+                                    <p>when known printer took a galley of type scrambl edmake</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-xl-3 col-lg-4 col-md-6">
+                                <div class="courses__item-four shine__animate-item">
+                                    <div class="courses__item-thumb-three shine__animate-link">
+                                        <a href="course-details.html"><img src="assets/img/courses/h3_course_thumb01.jpg" alt="img"></a>
+                                        <span class="courses__price">$25.00</span>
+                                    </div>
+                                    <div class="courses__item-content-three">
+                                        <ul class="courses__item-meta list-wrap">
+                                            <li class="courses__item-tag">
+                                                <a href="courses.html">Finance</a>
+                                            </li>
+                                            <li class="courses__wishlist">
+                                                <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
+                                            </li>
+                                        </ul>
+                                        <h2 class="title"><a href="course-details.html">Web Development Master
+                                        class & Certifications</a></h2>
+                                        <div class="courses__review">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <span>(4.8 Reviews)</span>
+                                        </div>
+                                        <div class="courses__item-bottom-three">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-book"></i>Lessons 05</li>
+                                                <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6">
+                                <div class="courses__item-four shine__animate-item">
+                                    <div class="courses__item-thumb-three shine__animate-link">
+                                        <a href="course-details.html"><img src="assets/img/courses/h3_course_thumb02.jpg" alt="img"></a>
+                                        <span class="courses__price">$44.00</span>
+                                    </div>
+                                    <div class="courses__item-content-three">
+                                        <ul class="courses__item-meta list-wrap">
+                                            <li class="courses__item-tag">
+                                                <a href="courses.html">Marketing</a>
+                                            </li>
+                                            <li class="courses__wishlist">
+                                                <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
+                                            </li>
+                                        </ul>
+                                        <h2 class="title"><a href="course-details.html">Learning Digital Marketing on Facebook</a></h2>
+                                        <div class="courses__review">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <span>(4.8 Reviews)</span>
+                                        </div>
+                                        <div class="courses__item-bottom-three">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-book"></i>Lessons 05</li>
+                                                <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6">
+                                <div class="courses__item-four shine__animate-item">
+                                    <div class="courses__item-thumb-three shine__animate-link">
+                                        <a href="course-details.html"><img src="assets/img/courses/h3_course_thumb03.jpg" alt="img"></a>
+                                        <span class="courses__price">$20.00</span>
+                                    </div>
+                                    <div class="courses__item-content-three">
+                                        <ul class="courses__item-meta list-wrap">
+                                            <li class="courses__item-tag">
+                                                <a href="courses.html">Business</a>
+                                            </li>
+                                            <li class="courses__wishlist">
+                                                <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
+                                            </li>
+                                        </ul>
+                                        <h2 class="title"><a href="course-details.html">Financial Analyst Training & Investing Course</a></h2>
+                                        <div class="courses__review">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <span>(4.8 Reviews)</span>
+                                        </div>
+                                        <div class="courses__item-bottom-three">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-book"></i>Lessons 05</li>
+                                                <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6">
+                                <div class="courses__item-four shine__animate-item">
+                                    <div class="courses__item-thumb-three shine__animate-link">
+                                        <a href="course-details.html"><img src="assets/img/courses/h3_course_thumb04.jpg" alt="img"></a>
+                                        <span class="courses__price">$32.00</span>
+                                    </div>
+                                    <div class="courses__item-content-three">
+                                        <ul class="courses__item-meta list-wrap">
+                                            <li class="courses__item-tag">
+                                                <a href="courses.html">Economics</a>
+                                            </li>
+                                            <li class="courses__wishlist">
+                                                <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
+                                            </li>
+                                        </ul>
+                                        <h2 class="title"><a href="course-details.html">Master the Fundamentals of Math</a></h2>
+                                        <div class="courses__review">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <span>(4.8 Reviews)</span>
+                                        </div>
+                                        <div class="courses__item-bottom-three">
+                                            <ul class="list-wrap">
+                                                <li><i class="flaticon-book"></i>Lessons 05</li>
+                                                <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="view__courses-btn text-center mt-30">
+                            <a href="courses.html" class="btn arrow-btn">See All Courses <img src="assets/img/icons/right_arrow.svg" alt="" class="injectable"></a>
+                        </div>
+                        <div class="courses__shape-wrap">
+                            <img src="assets/img/courses/h3_course_shape01.svg" alt="shape" class="tg-motion-effects1">
+                            <img src="assets/img/courses/h3_course_shape02.svg" alt="shape" class="tg-motion-effects4">
+                            <img src="assets/img/courses/h3_course_shape03.svg" alt="shape" class="alltuchtopdown">
+                            <img src="assets/img/courses/h3_course_shape04.svg" alt="shape" class="tg-motion-effects5">
+                        </div>
+                    </div>
+                </section>
+                <!-- course-area-end -->
+
 
         <!-- about-area -->
         <section class="about-area tg-motion-effects section-py-120">
