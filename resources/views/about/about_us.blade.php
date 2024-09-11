@@ -179,8 +179,8 @@
                                             </p>
                                             <div class="instructor__social">
                                                 <ul class="list-wrap">
-                                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="#"><i class "fab fa-twitter"></i></a></li>
+                                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
                                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                                 </ul>
