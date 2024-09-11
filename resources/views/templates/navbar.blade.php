@@ -11,55 +11,14 @@
                             </div>
                             <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                 <ul class="navigation">
-                                    <li class="active menu-item-has-children"><a href="/">Home</a>
-                                        <ul class="sub-menu mega-menu">
-                                            <li>
-                                                <ul class="list-wrap mega-sub-menu">
-                                                    <li>
-                                                        <a href="/">Main Home</a>
-                                                    </li>
-                                                    <li class="active">
-                                                        <a href="/online-course">Online Course</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/kls">Class</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-4.html">Yoga Instructor<span class="tg-badge-two">New</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-5.html">Kindergarten<span class="tg-badge">Hot</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <ul class="list-wrap mega-sub-menu">
-                                                    <li>
-                                                        <a href="index-6.html">Language Academy<span class="tg-badge-two">New</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-7.html">Business Coach <span class="tg-badge-two">New</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-8.html">Kitchen Coach <span class="tg-badge">Hot</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <div class="mega-menu-img">
-                                                    <a href="courses.html"><img src="assets/img/others/mega_menu_img.jpg" alt="img"></a>
-                                                </div>
-                                            </li>
-                                        </ul>
+                                    <li class=""><a href="/">Home</a>
                                     </li>
-                                    <li class="menu-item-has-children"><a href="#">Courses</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/courses">All Courses</a></li>
-                                            <li><a href="/course_detail">Course Details</a></li>
-                                            <li><a href="lesson.html">Course Lesson</a></li>
-                                        </ul>
+                                    <li class=""><a href="#">online Courses</a>
                                     </li>
-                                    <li class="menu-item-has-children"><a href="#">Pages</a>
+
+                                    <li class=""><a href="kls">Class</a>
+                                    </li>
+                                        <li class="menu-item-has-children"><a href="#">Lainnya</a>
                                         <ul class="sub-menu">
                                             <li><a href="/about">About Us</a></li>
                                             <li class="menu-item-has-children">
@@ -76,48 +35,15 @@
                                                     <li><a href="/event_detail">Event Details</a></li>
                                                 </ul>
                                             </li>
-                                            
+
                                             <li class="active menu-item-has-children">
                                                     <a href="/blog">Blog</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="/blog_detail">Blog Details</a></li>
                                                     </ul>
                                                 </li>
-                                            
+
                                             <li><a href="/contact">contact</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="#">Dashboard</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children">
-                                                <a href="instructor-dashboard.html">Instructor Dashboard</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="instructor-dashboard.html">Dashboard</a></li>
-                                                    <li><a href="instructor-profile.html">Profile</a></li>
-                                                    <li><a href="instructor-enrolled-courses.html">Enrolled Courses</a></li>
-                                                    <li><a href="instructor-wishlist.html">Wishlist</a></li>
-                                                    <li><a href="instructor-review.html">Reviews</a></li>
-                                                    <li><a href="instructor-attempts.html">My Quiz Attempts</a></li>
-                                                    <li><a href="instructor-history.html">Order History</a></li>
-                                                    <li><a href="instructor-courses.html">My Course</a></li>
-                                                    <li><a href="instructor-announcement.html">Announcements</a></li>
-                                                    <li><a href="instructor-quiz.html">Quiz Attempts</a></li>
-                                                    <li><a href="instructor-assignment.html">Assignments</a></li>
-                                                    <li><a href="instructor-setting.html">Settings</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item-has-children"><a href="student-dashboard.html">Student Dashboard</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="student-dashboard.html">Dashboard</a></li>
-                                                    <li><a href="student-profile.html">Profile</a></li>
-                                                    <li><a href="student-enrolled-courses.html">Enrolled Courses</a></li>
-                                                    <li><a href="student-wishlist.html">Wishlist</a></li>
-                                                    <li><a href="student-review.html">Reviews</a></li>
-                                                    <li><a href="student-attempts.html">My Quiz Attempts</a></li>
-                                                    <li><a href="student-history.html">Order History</a></li>
-                                                    <li><a href="student-setting.html">Settings</a></li>
-                                                </ul>
-                                            </li>
                                         </ul>
                                     </li>
                                 </ul>
