@@ -56,9 +56,9 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="section__title text-center mb-50">
-                                    <span class="sub-title">Top Class Courses</span>
-                                    <h2 class="title">Choose Perfect Academic Courses</h2>
-                                    <p>when known printer took a galley of type scrambl edmake</p>
+                                    <span class="sub-title">TOEFL and IELTS classes</span>
+                                    <h2 class="title">Improve your English skills in TOEFL and IELTS</h2>
+                                    <p>Choose the right path to master English proficiency and excel in your exams.</p>
                                 </div>
                             </div>
                         </div>
