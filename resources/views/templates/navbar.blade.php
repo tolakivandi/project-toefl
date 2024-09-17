@@ -21,26 +21,18 @@
                                         <li class="menu-item-has-children"><a href="#">Lainnya</a>
                                         <ul class="sub-menu">
                                             <li><a href="/about">About Us</a></li>
-                                            <li class="menu-item-has-children">
+                                            <li>
                                                 <a href="/instructors">Our Instructors</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="/instructors">Our Instructors</a></li>
-                                                    <li><a href="/detail_tim">Instructor Details</a></li>
-                                                </ul>
+                                                
                                             </li>
-                                            <li class="menu-item-has-children">
+                                            <li>
                                                 <a href="/komunitas">Komunitas</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="/komunitas">Our Events</a></li>
-                                                    <li><a href="/event_detail">Event Details</a></li>
-                                                </ul>
+                                                
                                             </li>
 
-                                            <li class="active menu-item-has-children">
+                                            <li>
                                                     <a href="/blog">Blog</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="/blog_detail">Blog Details</a></li>
-                                                    </ul>
+                                                   
                                                 </li>
 
                                             <li><a href="/contact">contact</a></li>
