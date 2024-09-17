@@ -100,13 +100,6 @@
                     <div class="col-lg-5 col-md-9">
                         <div class="about__images-four">
                             <img src="assets/img/others/h3_about_img.jpg" alt="">
-                            <div class="about__enrolled" data-aos="fade-up" data-aos-delay="400">
-                                <p class="title"><span>36K+</span> Enrolled Students</p>
-                                <img src="assets/img/others/student_grp.png" alt="img">
-                            </div>
-                            <div class="about__video" data-aos="fade-left" data-aos-delay="400">
-                                <a href="https://www.youtube.com/watch?v=b2Az7_lLh3g" class="play-btn popup-video"><i class="fas fa-play"></i> Watch our <br> Video</a>
-                            </div>
                             <div class="about__year-wrap">
                                 <h2 class="count">15</h2>
                                 <h5 class="title">year <br> of Institutes</h5>
@@ -120,7 +113,7 @@
                     <div class="col-lg-7">
                         <div class="about__content-four">
                             <div class="section__title mb-15">
-                                <span class="sub-title">About Campus history</span>
+                                <span class="sub-title">About Campus hist</span>
                                 <h2 class="title">We Are One of The Largest, Most <br> Diverse Universities in The USA</h2>
                             </div>
                             <p class="info-bold">Preparing students to make meaningful contributions to society as leaders in a complex wPreparing students to make meaningful contribution.Preparing students to make contributions to society as leaders in a complex.</p>
@@ -162,9 +155,9 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="section__title text-center mb-50">
-                            <span class="sub-title">Kelas Bahasa</span>
-                            <h2 class="title"></h2>
-                            <p>when known printer took a galley of type scrambl edmake</p>
+                            <span class="sub-title">TOEFL and IELTS classes</span>
+                            <h2 class="title">Improve your English skills in TOEFL and IELTS</h2>
+                            <p>Choose the right path to master English proficiency and excel in your exams.</p>
                         </div>
                     </div>
                 </div>
@@ -324,53 +317,6 @@
         </section>
         <!-- course-area-end -->
 
-        <!-- choose-area -->
-        <section class="choose__area tg-motion-effects section-py-140">
-            <div class="container">
-                <div class="choose__inner-wrap">
-                    <div class="row">
-                        <div class="col-lg-5 order-0 order-lg-2">
-                            <div class="choose__img" data-aos="fade-left" data-aos-delay="300">
-                                <img src="assets/img/others/choose_img.jpg" alt="img">
-                                <a href="https://www.youtube.com/watch?v=b2Az7_lLh3g" class="popup-video"><i class="fas fa-play"></i></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-7">
-                            <div class="choose__content">
-                                <div class="section__title mb-15">
-                                    <span class="sub-title">Why Choose Our Campus</span>
-                                    <h2 class="title">Get Your Quality Skills Certificate Online Exam</h2>
-                                </div>
-                                <p>when an unknown printer took a galleytype and scrambled makespecimen book has survived</p>
-                                <ul class="about__info-list list-wrap">
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content">The Most World Class Instructors</p>
-                                    </li>
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content">Access Your Class anywhere</p>
-                                    </li>
-                                    <li class="about__info-list-item">
-                                        <i class="flaticon-angle-right"></i>
-                                        <p class="content">Flexible Course Plan</p>
-                                    </li>
-                                </ul>
-                                <a href="about-us.html" class="btn arrow-btn">Read More <img src="assets/img/icons/right_arrow.svg" alt="" class="injectable"></a>
-                                <div class="shape">
-                                    <img src="assets/img/others/choose_shape03.svg" alt="shape" class="tg-motion-effects4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="choose__shape">
-                <img src="assets/img/others/choose_shape01.svg" alt="shape" class="tg-motion-effects4">
-                <img src="assets/img/others/choose_shape02.svg" alt="shape" class="tg-motion-effects5">
-            </div>
-        </section>
-        <!-- choose-area-end -->
 
 
         <!-- cta-area -->

@@ -6,7 +6,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="footer__widget">
                         <div class="logo mb-35 ">
-                            <a href="index.html"><img src="assets/img/goldmate/GoldMate21.png" alt="img"></a>
+                            <a href="index.html"><img src="assets/img/goldmate/GoldMate White.png" alt="img"></a>
                         </div>
                         <div class="footer__content">
                             <p>when an unknown printer took galley of type and scrambled it to make pspecimen bookt has.</p>

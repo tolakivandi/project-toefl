@@ -19989,7 +19989,7 @@ blockquote > p {
     24. Footer
 ===============================*/
 .footer__area {
-  background: var(--tg-common-color-black);
+  background: var(--tg-common-color-black-3);
 }
 .footer__area-two {
   margin-top: -160px;
@@ -20237,7 +20237,7 @@ blockquote > p {
   color: var(--tg-theme-secondary);
 }
 .footer__bottom {
-  background: var(--tg-common-color-dark);
+  background: var(--tg-common-color-black-2);
   padding: 35px 0;
 }
 @media (max-width: 991.98px) {

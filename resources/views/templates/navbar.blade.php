@@ -13,7 +13,7 @@
                                 <ul class="navigation">
                                     <li class=""><a href="/">Home</a>
                                     </li>
-                                    <li class=""><a href="#">online Courses</a>
+                                    <li class=""><a href="/online-course">online Courses</a>
                                     </li>
 
                                     <li class=""><a href="kls">Class</a>
