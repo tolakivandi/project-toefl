@@ -49,7 +49,7 @@
                                     <img src="assets/img/icons/h3_features_icon01.svg" class="injectable" alt="">
                                 </div>
                                 <div class="features__content-three">
-                                    <h2 class="title">Scholarship Facility</h2>
+                                    <h2 class="title">Kursus Persiapan test</h2>
                                     <p>Eestuidar University we prepare you to launch your.</p>
                                 </div>
                             </div>
@@ -100,10 +100,6 @@
                     <div class="col-lg-5 col-md-9">
                         <div class="about__images-four">
                             <img src="assets/img/others/h3_about_img.jpg" alt="">
-                            <div class="about__year-wrap">
-                                <h2 class="count">15</h2>
-                                <h5 class="title">year <br> of Institutes</h5>
-                            </div>
                             <div class="shape">
                                 <img src="assets/img/others/h3_about_shape01.svg" alt="shape" data-aos="fade-right" data-aos-delay="200" class="alltuchtopdown">
                                 <img src="assets/img/others/h3_about_shape02.svg" alt="shape" data-aos="fade-right" data-aos-delay="200">
@@ -113,7 +109,7 @@
                     <div class="col-lg-7">
                         <div class="about__content-four">
                             <div class="section__title mb-15">
-                                <span class="sub-title">About Campus hist</span>
+                                <span class="sub-title">About Class</span>
                                 <h2 class="title">We Are One of The Largest, Most <br> Diverse Universities in The USA</h2>
                             </div>
                             <p class="info-bold">Preparing students to make meaningful contributions to society as leaders in a complex wPreparing students to make meaningful contribution.Preparing students to make contributions to society as leaders in a complex.</p>
@@ -166,12 +162,12 @@
                         <div class="courses__item-four shine__animate-item">
                             <div class="courses__item-thumb-three shine__animate-link">
                                 <a href="course-details.html"><img src="assets/img/courses/h3_course_thumb01.jpg" alt="img"></a>
-                                <span class="courses__price">$25.00</span>
+                                <span class="courses__price">$40.00</span>
                             </div>
                             <div class="courses__item-content-three">
                                 <ul class="courses__item-meta list-wrap">
                                     <li class="courses__item-tag">
-                                        <a href="courses.html">Finance</a>
+                                        <a href="courses.html">TOEFL</a>
                                     </li>
                                     <li class="courses__wishlist">
                                         <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
@@ -191,8 +187,9 @@
                                 </div>
                                 <div class="courses__item-bottom-three">
                                     <ul class="list-wrap">
-                                        <li><i class="flaticon-book"></i>Lessons 05</li>
-                                        <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                        <li><i class="flaticon-book"></i>05</li>
+                                        <li><i class="flaticon-clock"></i>3h 20m</li>
+                                        <li><i class="flaticon-mortarboard"></i>22</li>
                                     </ul>
                                 </div>
                             </div>
@@ -207,7 +204,7 @@
                             <div class="courses__item-content-three">
                                 <ul class="courses__item-meta list-wrap">
                                     <li class="courses__item-tag">
-                                        <a href="courses.html">Marketing</a>
+                                        <a href="courses.html">IELTS</a>
                                     </li>
                                     <li class="courses__wishlist">
                                         <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
@@ -226,8 +223,9 @@
                                 </div>
                                 <div class="courses__item-bottom-three">
                                     <ul class="list-wrap">
-                                        <li><i class="flaticon-book"></i>Lessons 05</li>
-                                        <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                        <li><i class="flaticon-book"></i>05</li>
+                                        <li><i class="flaticon-clock"></i>1h 20m</li>
+                                        <li><i class="flaticon-mortarboard"></i>22</li>
                                     </ul>
                                 </div>
                             </div>
@@ -242,7 +240,7 @@
                             <div class="courses__item-content-three">
                                 <ul class="courses__item-meta list-wrap">
                                     <li class="courses__item-tag">
-                                        <a href="courses.html">Business</a>
+                                        <a href="courses.html">JAPANESE</a>
                                     </li>
                                     <li class="courses__wishlist">
                                         <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
@@ -261,8 +259,9 @@
                                 </div>
                                 <div class="courses__item-bottom-three">
                                     <ul class="list-wrap">
-                                        <li><i class="flaticon-book"></i>Lessons 05</li>
-                                        <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                        <li><i class="flaticon-book"></i>05</li>
+                                        <li><i class="flaticon-clock"></i>2h 20m</li>
+                                        <li><i class="flaticon-mortarboard"></i>22</li>
                                     </ul>
                                 </div>
                             </div>
@@ -277,7 +276,7 @@
                             <div class="courses__item-content-three">
                                 <ul class="courses__item-meta list-wrap">
                                     <li class="courses__item-tag">
-                                        <a href="courses.html">Economics</a>
+                                        <a href="courses.html">MANDARIN</a>
                                     </li>
                                     <li class="courses__wishlist">
                                         <a href="course-details.html"><img src="assets/img/icons/heart02.svg" alt="" class="injectable"></a>
@@ -296,8 +295,9 @@
                                 </div>
                                 <div class="courses__item-bottom-three">
                                     <ul class="list-wrap">
-                                        <li><i class="flaticon-book"></i>Lessons 05</li>
-                                        <li><i class="flaticon-mortarboard"></i>Students 22</li>
+                                        <li><i class="flaticon-book"></i>05</li>
+                                        <li><i class="flaticon-clock"></i> 40m</li>
+                                        <li><i class="flaticon-mortarboard"></i>22</li>
                                     </ul>
                                 </div>
                             </div>
