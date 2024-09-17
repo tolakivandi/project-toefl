@@ -54,6 +54,10 @@ Route::get('/komunitas', function () {
     return view('about.komunitas');
 });
 
+Route::get('/forum_detail', function () {
+    return view('about.forum_detail');
+});
+
 Route::get('/event_detail', function () {
     return view('about.event_detail');
 });
