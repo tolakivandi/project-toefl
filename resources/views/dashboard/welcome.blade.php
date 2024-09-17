@@ -35,9 +35,6 @@
                             <img src="assets/img/banner/banner_shape02.png" alt="shape" class="shape small-shape tg-motion-effects3">
                             <div class="banner__author">
                                 <div class="banner__author-item">
-                                    <div class="image w-100" style="width: 700px">
-                                        <img src="assets/img/logo/GoldMateLogo.svg" class="w-500px" alt="img">
-                                    </div>
                                 </div>
                                 <img src="assets/img/banner/banner_shape02.svg" alt="shape" class="arrow-shape tg-motion-effects3">
                             </div>
@@ -1455,7 +1452,67 @@
         </section>
         <!-- blog-area-end -->
 
-                <!-- testimonial-area -->
+        <section class="forum__area section-py-120">
+        <div class="container">
+            <h3 class="title text-center mb-5">Forum Diskusi</h3>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="forum__post-item card">
+                        <div class="forum__post-thumb">
+                            <a href="forum_detail.html">
+                                <img src="assets/img/events/event_thumb01.jpg" class="card-img-top" alt="Tips Mempersiapkan TOEFL">
+                            </a>
+                        </div>
+                        <div class="forum__post-content card-body text-center">
+                            <h4 class="title"><a href="forum_detail.html" class="stretched-link">Tips Mempersiapkan TOEFL</a></h4>
+                            <p class="card-text">Bergabunglah untuk berbagi pengalaman atau mengajukan pertanyaan terkait persiapan TOEFL.</p>
+                            <div class="forum__post-meta">
+                                <span><i class="fas fa-comments"></i> 15 Diskusi</span>
+                                <span><i class="fas fa-users"></i> 100 Anggota</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="forum__post-item card">
+                        <div class="forum__post-thumb">
+                            <a href="forum_detail.html">
+                                <img src="assets/img/events/event_thumb02.jpg" class="card-img-top" alt="Cara Meningkatkan Skor IELTS">
+                            </a>
+                        </div>
+                        <div class="forum__post-content card-body text-center">
+                            <h4 class="title"><a href="forum_detail.html" class="stretched-link">Cara Meningkatkan Skor IELTS</a></h4>
+                            <p class="card-text">Bagikan strategi dan tips untuk meningkatkan skor IELTS.</p>
+                            <div class="forum__post-meta">
+                                <span><i class="fas fa-comments"></i> 10 Diskusi</span>
+                                <span><i class="fas fa-users"></i> 80 Anggota</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="forum__post-item card">
+                        <div class="forum__post-thumb">
+                            <a href="forum_detail.html">
+                                <img src="assets/img/events/event_thumb03.jpg" class="card-img-top" alt="Pengalaman Mendapatkan Beasiswa Luar Negeri">
+                            </a>
+                        </div>
+                        <div class="forum__post-content card-body text-center">
+                            <h4 class="title"><a href="forum_detail.html" class="stretched-link">Pengalaman Mendapatkan Beasiswa Luar Negeri</a></h4>
+                            <p class="card-text">Diskusi terbuka mengenai proses aplikasi beasiswa luar negeri.</p>
+                            <div class="forum__post-meta">
+                                <span><i class="fas fa-comments"></i> 20 Diskusi</span>
+                                <span><i class="fas fa-users"></i> 120 Anggota</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+                 <!-- testimonial-area -->
                 <section class="testimonial__area section-py-120">
                     <div class="container">
                         <div class="row justify-content-center">
